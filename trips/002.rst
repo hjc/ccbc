@@ -1,0 +1,43 @@
+Croscon Beer Club Round 2: `Rockaway Brewery <https://www.rockawaybrewco.com>`_ (06/03).
+==============================================================================
+
+Welcome back. It's time for round 2.
+
+Last time we took the ferry across the East River, enjoyed a delicious stout, saison, and tripple (among others), and 
+we even topped the night off with some surprise McSorley's Ale with our burgers. So, what's in store this time?
+
+brew install croscon/beerclub/2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For our second trip, we'll be going... right back to Long Island City! To `Rockaway Brewery 
+<https://goo.gl/maps/Wkt7iPMrpxm>`_. Features include: Reggae Music, an ESB, an Irish Stout, a Kolsh, 
+and six others! Oh, and growlers!
+
+Rockaway offers beer tasting from 3pm to 10pm on Friday, so we have plenty of time. Also, looks like if we show
+up at 5pm, we can get a tour of the brewery, if anyone's down (I know I am).
+
+I assume we'll take the ferry again, but that's really up to you guys.
+
+We'll be leaving at 5pm if we're not doing the tasting tour, or earlier if we are (we can figure that out). We'll be 
+going on **Friday, June 3rd**.
+
+Like last time, everyone is welcome, and so are friends/family. Let me know if you're going via RSVP's, so we can grab 
+table nice and early.
+
+The Guest List (So Far)
+~~~~~~~~~~~~~~
+
+- Chris Gullian
+- Hayden Chudy
+- Neil Daftary
+- Eli Gundry
+- Adam Heim
+- Brian Rose
+- Paul Decotiis
+- Neil Newman
+
+Addendum
+~~~~~~~~
+
+- RST is fucking ridiculous.
+- I learned more about Homebrew just to write this.
