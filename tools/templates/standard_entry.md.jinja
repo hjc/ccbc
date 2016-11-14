@@ -1,0 +1,24 @@
+# {{ title }}
+
+{{ intro }}
+
+## brew install croscon/beerclub/{{ trip_number }}
+
+{{ body }}
+
+## The Guest List
+
+{% for guest in guest_list %}
+* {{ guest }}
+{% endfor %}
+
+{% if notes %}
+## Additional Noteas
+
+{% for note in notes %}
+* {{ note }}
+{% endfor %}
+
+{% endif %}
+
+Rendered from source file: [{{ source }}]({{ source }}).
