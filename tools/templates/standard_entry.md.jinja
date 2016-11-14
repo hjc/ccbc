@@ -12,13 +12,11 @@
 * {{ guest }}
 {% endfor %}
 
-{% if notes %}
+{%- if notes %}
 ## Additional Noteas
 
-{% for note in notes %}
-* {{ note }}
-{% endfor %}
+{{ notes }}
 
-{% endif %}
+{%- endif %}
 
 Rendered from source file: [{{ source }}](/{{ source }}).
