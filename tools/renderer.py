@@ -34,7 +34,6 @@ def parse_data_to_markup(source, dest, format_='yaml',
     template = env.get_template(template)
 
     data['source'] = source
-    print source
 
     dest.write(template.render(**data))
 
