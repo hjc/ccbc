@@ -1,0 +1,40 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+indent_style = space
+indent_size = 4
+
+# always been a big fan of explicitly specifying the primary language's formatter
+[*.py]
+end_of_line = lf
+indent_style = space
+indent_size = 4
+
+[*.less]
+indent_style = space
+indent_size = 2
+
+[*.{raml,yaml,yml,sls}]
+indent_style = space
+indent_size = 2
+
+[*.conf]
+indent_style = space
+indent_size = 2
+
+[Vagrantfile]
+indent_style = space
+indent_size = 2
+
+[*.{eslintrc,babelrc,json}]
+indent_style = space
+indent_size = 2
+
+[*.dot]
+indent_style = space
+indent_size = 2
