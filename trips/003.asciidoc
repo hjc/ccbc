@@ -1,1 +1,63 @@
-https://gist.githubusercontent.com/hjc1710/28ba5f28a98c6315d5ccae7386d6142c/raw/dbbfc2912e9e9b9c09e74e5572686fb8533949d7/beer.asciidoc
+= Croscon Beer Club Round 3: link:http://www.abcbeer.co/[ABC Beer Co. (07/15)]
+
+[quote]
+"After all, we're beer geeks, not beer snobs." -- ABC Beer Co.
+
+
+Here we go again! Who's ready for round 3?
+
+Our last journey took us back to Long Island City (through the dreaded A this time) and straight
+into the heart of Rockaway Brewery. We had a delightful 15 minute tour of the brewery (remember
+those cat pellets anyone?), some fresh, tasty brews from a selection of 10, and some vegan
+empanadas (well, *some* of us expressly avoided those). What's on tap this time, then?
+
+== `brew cask install croscon/beerclub/3`
+
+For our third trip we'll be going to... SCENIC ALPHABET CITY!!!!! (Not the section with all the junkies,
+hopefully).
+
+We'll be heading to link:http://www.abcbeer.co/[ABC Beer Co.] on Avenue C. Features include: 12 beers on tap,
+12 beers for Growler filling, one of ABC Beer Co.'s own local brews, 350 craft beers in bottles, a "craft"
+meat and cheese counter, a large communal atmosphere, and a bar that's open until 2 AM this time!
+
+Unlike our past two trips, ABC Beer Co. seems to be more of a larger, open and almost barlike space, with food.
+For those who may not have liked the cramped brewery spaces or the long travels of our past visits, I highly
+encourage you to come out to this one! Oh, and there's a Wine Co. right down the street!
+
+We'll be leaving at 5pm on *Friday, July 15th* and it should be 20 minute train ride.
+
+As always, everyone is welcome, and friends and family are also encouraged to come. Let me know if you're
+going via RSVP's, so we can grab the appropriate amount of space when we get there.
+
+== The Guest List (So Far)
+
+* Hayden Chudy
+* Chris Gullian
+* Peter Pak
+* Elisha Goberdon
+* Colin Elder
+* Eli Gundry
+* Paul Decotiis (???)
+* Adam Heim (???)
+* Brian Rose (???)
+
+== Addendum
+
+* Just because this is so late doesn't mean I missed the reso... they don't take reso's!
+* I used ASCII Doc this time to write this. You didn't know that was a thing did you? It's a Java thing.
+** Don't worry about it.
+*** Links are link:http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#links[fucking ridiculous].
+**** But nested lists... ARE SO EASY
+***** This is legit five `*` in a row. Then text.
+
+[start=5]
+. Oh, and I can start my list at ANY NUMBER!
+. SUCK IT
+
+[start=10]
+. MARKDOWN!
+. Everything else is pretty ridiculous, but this list game... is on point.
+
+
+* Also, did I mention the "J. Wakefield Hop For Teacher IPA" beer? What a pun. Love it.
+** OK, list handling isn't _quite_ perfect.

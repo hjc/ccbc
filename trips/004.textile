@@ -1,1 +1,48 @@
-https://gist.githubusercontent.com/hjc1710/12a81b7ea10f2c5168267fbd4ccd033b/raw/1bc66a77d274c3f1dc4dac5fbc3870b787fa3782/beer.textile
+h1. Croscon Beer Club Round 4: "McSorley's Old Ale House (08/26)":http://mcsorleysoldalehouse.nyc/
+
+Pull up a barstool, because it's time for round 4!
+
+The last outing was a delightful affair to Alphabet City's own ABC Beer Co. There was excellent
+beer cheese, a great bottled and draft selection, including one of their own, and a wide 
+assortment of imported Italian cookie butters (which I didn't even know was a thing). So, what
+are we pouring up this time?
+
+h2. @brew cask install croscon/beerclub/4@
+
+For our fourth trip, we're heading to the oldest continually running ale house in the entire
+city... McSorley's Old Ale House in the scenic East Village.
+
+McSorley's has been open and running since 1854, leaving it at 162 consecutive operating years.
+Hordes of famous folks have passed through those doors and they didn't even allow women into
+the bar until the 1970's! They feature two beers on tap (both delicious) and a limited menu
+of Irish affair, such as Liverwurst and Corned Beef Hash. This is a far cry from everywhere
+else we've been, but the history is undeniable.
+
+McSorley's is a decently spacious area, but it's also wildly popular. When we get there around
+6, I'm expecting a decent amount of open areas, but by 8 or 9 it's sure to be packed and we may
+want to relocate. As always, I highly encourage everyone to come drink with us, and bring
+whomever you please!
+
+We'll be leaving at 5:15pm on *Friday, Augst 26th* and it should be a 15-20 minute train ride.
+
+Please RSVP if you plan to attend, and, again, you're welcome to bring whomever!
+
+h2. The Guest List (So Far)
+
+# Hayden Chudy
+# Adam Heim
+# Peter Pak
+# Heather Termyna
+# Neil Newman
+# Paul Decotiis
+# Brian Rose
+# Neil Daftary (tentative based on how groovy he's feeling)
+
+h2. Addendum
+
+* Again, there's no reso's here, so we're on our own.
+* I picked Textile this time, which is like a bastard child of AsciiDoc and Markdown, not too bad.
+** Uses the same list nesting scheme as AsciiDoc.
+***  Put then uses weird pseudo-HTML tags for headers and paragraphs. Super strange.
+* This is what BitBucket uses out of the box... Ewwww...
+* God dammit... the lines don't auto-wrap. I ain't fixing that...
