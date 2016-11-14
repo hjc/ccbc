@@ -34,6 +34,10 @@ Some sample items:
 - [Threes Brewing](http://www.threesbrewing.com/) in Gowanus (or Greenpoint?)
 - [Braven Brewing](http://www.bravenbrewing.com/). Maybe for 2017? Their
   taproom ain't open =(.
+- [Interboro Spirits & Ale](http://interboro.nyc/home).
+- [Folksbier Brewery](http://folksbier.com/home.html).
+- [Gunhill Brewery](http://gunhillbrewing.com/#declare).
+- [Other Half Brewing](http://www.otherhalfbrewing.com/).
 - World of Beers?
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
