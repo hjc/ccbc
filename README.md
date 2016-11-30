@@ -17,12 +17,12 @@ Some sample items:
 - McSorley's - the  oldest continuously runinng bar in the city. -- DONE as Meeting 4!
 - Greenpoint Brew and Ale Company (<http://www.greenpointbeer.com/>). -- DONE
   as Meeting 5!
-- [Kings County Brewers Collective](http://www.kcbcbeer.com/) -- currently on
-  tap for Meeting 6!
+- [Kings County Brewers Collective](http://www.kcbcbeer.com/) -- DONE as Meeting 6!
+- [Bridge and Tunnel Brewery](http://www.bridgeandtunnelbrewery.com/) -- DONE
+  as Meeting 7!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - The [LIC Beer Project](http://licbeerproject.com/).
 - [Big Alice Brewing](http://bigalicebrewing.com/).
-- [Bridge and Tunnel Brewery](http://www.bridgeandtunnelbrewery.com/) (we're gonna get REAL friendly with Queens!).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
 - Six Point Brewery in Red Hook.
