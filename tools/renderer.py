@@ -2,6 +2,8 @@ import argparse
 import sys
 import yaml
 
+from os.path import splitext
+
 import jinja2
 
 
@@ -25,6 +27,10 @@ def parse_data_to_markup(source, dest, format_='yaml',
     if format_ == 'yaml':
         with open(source, 'r') as f:
             data = yaml.load(f)
+    elif format_ == 'hjson':
+        import hjson
+        with open(source, 'r') as f:
+            data = hjson.load(f)
     else:
         raise RuntimeError("No usable format given to data parser!")
 
@@ -52,7 +58,8 @@ def main():
         print('No source file given!')
         sys.exit(0)
 
-    out = parse_data_to_markup(args.source, sys.stdout)
+    _, ext = splitext(args.source)
+    out = parse_data_to_markup(args.source, sys.stdout, format_=ext[1:])
 
     sys.exit(0)
 
