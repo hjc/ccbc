@@ -20,8 +20,8 @@ Some sample items:
 - [Kings County Brewers Collective](http://www.kcbcbeer.com/) -- DONE as Meeting 6!
 - [Bridge and Tunnel Brewery](http://www.bridgeandtunnelbrewery.com/) -- DONE
   as Meeting 7!
+- The [LIC Beer Project](http://licbeerproject.com/) -- ON TAP for Meeting 8!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
-- The [LIC Beer Project](http://licbeerproject.com/).
 - [Big Alice Brewing](http://bigalicebrewing.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
