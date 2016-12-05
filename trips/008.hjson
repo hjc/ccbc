@@ -52,7 +52,7 @@
         and you can just tell them to show up and meet us at the table!
         '''
     guest_list: ["Neil Newman", "Neil Daftary", "Hayden Chudy", "Chris Gullian",
-                 "Peter Pak", "Adam Heim"]
+                 "Peter Pak", "Adam Heim", "Eli Gundry (? Didn't confirm, but, he never misses!)"]
     notes:
         '''
         - Used [hjson](https://hjson.org/) this time... which is like a magical
