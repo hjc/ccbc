@@ -38,6 +38,7 @@ Some sample items:
 - [Folksbier Brewery](http://folksbier.com/home.html).
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
 - [Other Half Brewing](http://www.otherhalfbrewing.com/).
+- [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - World of Beers?
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
