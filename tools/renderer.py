@@ -1,4 +1,5 @@
 import argparse
+import ConfigParser
 import sys
 import yaml
 
@@ -31,6 +32,16 @@ def parse_data_to_markup(source, dest, format_='yaml',
         import hjson
         with open(source, 'r') as f:
             data = hjson.load(f)
+    elif format_ == 'cfg':
+        # config parser needs the most... massging
+        config = ConfigParser.RawConfigParser()
+        config.read(source)
+
+        data = config.items('trip')
+        data = dict(map(lambda x: (x[0], x[1].replace('\\n', '\n')), data))
+
+        guests = map(lambda x: x[1], config.items('guests'))
+        data['guest_list'] = guests
     else:
         raise RuntimeError("No usable format given to data parser!")
 
