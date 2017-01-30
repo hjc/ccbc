@@ -55,6 +55,13 @@ An initial survey of membership yielded these individuals:
 - Paul Decotiis
 - Hayden Chudy
 
+## Non-Croscon Member Emails
+
+This is a list of emails for members who are no longer at Croscon, but still attend events:
+
+1. Chris Gullian: <crullian@gmail.com>.
+2. Andrew Baker: <andrewbakerguy@gmail.com>.
+
 ## brew install croscon-beer-club
 
 For the first event, Chris and I were thinking of going to [Transmitter Brewery](http://www.transmitterbrewing.com/) in
