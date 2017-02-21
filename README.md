@@ -20,9 +20,10 @@ Some sample items:
 - [Kings County Brewers Collective](http://www.kcbcbeer.com/) -- DONE as Meeting 6!
 - [Bridge and Tunnel Brewery](http://www.bridgeandtunnelbrewery.com/) -- DONE
   as Meeting 7!
-- The [LIC Beer Project](http://licbeerproject.com/) -- ON TAP for Meeting 8!
+- The [LIC Beer Project](http://licbeerproject.com/) -- DONE as Meeting 8!
+- [Big Alice Brewing](http://bigalicebrewing.com/) -- DONE as Meeting 9!
+- [Threes Brewing](http://www.threesbrewing.com/) -- ON TAP for Meeting 10!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
-- [Big Alice Brewing](http://bigalicebrewing.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
 - Six Point Brewery in Red Hook.
@@ -31,7 +32,6 @@ Some sample items:
 - [Cricket Hill Brewery](http://www.crickethillbrewery.com/) in Jersey.
 - [Whole Foods Market - Bowery Beer Room](https://www.beermenus.com/places/8-whole-foods-market-bowery-beer-room).
 - [Finback Brewery](http://www.finbackbrewery.com/home.html) in Queens.
-- [Threes Brewing](http://www.threesbrewing.com/) in Gowanus (or Greenpoint?)
 - [Braven Brewing](http://www.bravenbrewing.com/). Maybe for 2017? Their
   taproom ain't open =(.
 - [Interboro Spirits & Ale](http://interboro.nyc/home).
