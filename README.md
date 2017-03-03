@@ -61,6 +61,9 @@ This is a list of emails for members who are no longer at Croscon, but still att
 
 1. Chris Gullian: <crullian@gmail.com>.
 2. Andrew Baker: <andrewbakerguy@gmail.com>.
+3. Peter Pak: <ppakdev@gmail.com>.
+4. Brian Rose: <stetsentech@gmail.com>.
+5. Elisha Goberdon: <goberdon@gmail.com>.
 
 ## brew install croscon-beer-club
 
