@@ -42,6 +42,9 @@ def parse_data_to_markup(source, dest, format_='yaml',
 
         guests = map(lambda x: x[1], config.items('guests'))
         data['guest_list'] = guests
+    elif format_ == 'plist':
+        import plistlib
+        data = plistlib.readPlist(source)
     else:
         raise RuntimeError("No usable format given to data parser!")
 

@@ -22,7 +22,9 @@ Some sample items:
   as Meeting 7!
 - The [LIC Beer Project](http://licbeerproject.com/) -- DONE as Meeting 8!
 - [Big Alice Brewing](http://bigalicebrewing.com/) -- DONE as Meeting 9!
-- [Threes Brewing](http://www.threesbrewing.com/) -- ON TAP for Meeting 10!
+- [Threes Brewing](http://www.threesbrewing.com/) -- DONE for Meeting 10!
+- [Folksbier Brewery](http://folksbier.com/home.html) -- DONE as Meeting 11!
+- [SingleCut Beersmiths](https://singlecutbeer.com/) -- ON TAP for Meeting 12!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
@@ -35,12 +37,10 @@ Some sample items:
 - [Braven Brewing](http://www.bravenbrewing.com/). Maybe for 2017? Their
   taproom ain't open =(.
 - [Interboro Spirits & Ale](http://interboro.nyc/home).
-- [Folksbier Brewery](http://folksbier.com/home.html).
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
 - [Other Half Brewing](http://www.otherhalfbrewing.com/).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
-- World of Beers?
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
 - BREW OUR OWN BEER AS A GROUP!?!?!?!

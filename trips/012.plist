@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>trip_number</key>
+	<string>12</string>
+	<key>title</key>
+	<string>Beer Club Round 12: [A Nu Start](https://singlecutbeer.com/tap-room/) (4/28)
+    </string>
+	<key>intro</key>
+	<string>It's been a full year of drinking, so let's celebrate!
+
+That's right, this is the 12th consecutive beer club, and our official one
+year anniversary. A year ago we all trekked out to LIC and enjoyed our
+first ever meeting at Transmitter Brewery. Still a favorite of mine and the
+club's, we didn't have a single bad beer there and it was a great way to
+kick things off. It's amazing to think it's already been a year.
+
+In more recent time, we went to Folksbier Brewery, where we solved our the
+previous issue we had with space by grabbing three full tables and
+accommodating the most guests and friends, ever. The beer there was...
+I don't even remember which beers I had, to be honest. I mostly remember
+the beer cheese and the pretzels, oh dear god the pretzels... I don't
+remember the beer being bad though!
+
+Now, what kind of fun do I have for us this month?
+	</string>
+    <key>body</key>
+    <string>
+For our anniversary trip, we're fittingly going to Queens again, but this
+time to Astoria. To [SingleCut
+Beersmiths](https://singlecutbeer.com/tap-room/)! SingleCut is a small, but
+prestigious brewery in Astoria. You've likely seen or had their IPA's
+around the city in various bars, but their home base is pretty awesome. As
+big music and barbecue fans, their tap room is spacious, plays great music,
+has games, and even has food on the weekends. Their brew style is typically
+IPA focused, but they also currently have a Pilsner, an India Pale Lager,
+and a White Lager on tap, and are adding a sour ale with guava to their tap
+lineup this Friday!
+
+This is a location I've been to before (it's about 10 minutes from my
+house), and it's pretty dope. The space is huge and the beers are
+delicious. They even had Cards Against Humanity last time I went there.
+I didn't get to try the barbecue they had (you can check out the menu on
+their site), but I'm sure it's great. Also, this is close to my place, so
+we can swing by their afterwards for a chill session.
+
+Their tasting room opens at 4pm, so an arrival at 6pm is probably a safe
+bet. They then close at midnight, so that should give us plenty of time.
+To get there, you'll take the N or W train all the way to the last stop,
+the Ditmars Blvd. stop. From there... it's a decent walk to the North,
+I will warn you. But trust me, totally worth it.
+
+Please let me know if you'll be attending and which time you'll show up, as
+I can grab a reservation if we're gonna bring more than 10 people. As
+always, any and everyone is welcome to come along and we'd love to have as
+many attendees as possible. Friends and family are always welcome!
+
+Can't wait to see you all there!
+    </string>
+	<key>guest_list</key>
+	<array>
+		<string>Hayden Chudy</string>
+	</array>
+    <key>notes</key>
+    <string>
+- This is actually written as a plist! I finally find a good way to
+  incorporate XML into this. Honestly, it was pretty easy. Well done Apple!
+- This is my first beer club while not at Croscon, so I'll likely do a name
+  change after this, but we can discuss that at the meetup.
+- California was dope, and so where the Radiohead shows.
+  - I did a tour around Anchor Steam brewery that was one of the most
+    in-depth and enjoyable ones yet!
+  - I also saw many pretty pictures and buildings.
+    </string>
+</dict>
+</plist>
