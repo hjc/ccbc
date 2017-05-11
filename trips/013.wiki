@@ -1,0 +1,46 @@
+= Beer Club Round 13: [http://www.otherhalfbrewing.com/info#hello The Other Half] (5/19) =
+
+Welcome to the first meeting of our new year!
+
+Our New Year's Eve meetup was wonderful. While the turnout was lacking, the 
+nachos and beer weren't, and there was a New Orleans style jazz/ska band. And 
+some of the weirdest cartoons I've ever seen. Then we went to my apartment and 
+played Jurassic Park II on the SNES (Pook's not that great) and Street Fighter 
+II Turbo (he's also not great at that).
+
+However, new month, new brewery. So, what's in store this time?
+
+== brew cask install hjc/beerclub/13 ==
+
+For the first trip of our second year, we're gonna head back to Brooklyn, near 
+where Folksbier was, for [http://www.otherhalfbrewing.com/info#hello Other Half Brewing]. 
+Other Half is a young brewery founded in 2014 that makes limited 
+release small batches of their beers. They do distribute draft to the local 
+Brooklyn area, and sell cans and bottles on site (with really excellent 
+designs). They have a big focus on IPA's, but make some pretty damn good ones 
+(I've had the Flowerzz myself). They also have wonderful names, such as Meek 
+Millet and Forgot About Drie. There' no food here, I can't find a shot of 
+their tap room for the life of me, and I also don't know what's on tap (there 
+will be lots of IPA's though). So... this one is kind of a gamble. 
+
+Luckily, it's not far out. It's located by Folksbier and should be a 35 minute 
+train ride from the Chelsea area. Hell, if space becomes a problem, we can even 
+relocate to Folksbier, as they were quite accommodating.
+
+Their tasting room is open from 5pm to 10pm, so an arrival of 5:30pm to 6pm 
+should be ideal. There's also some good food in this area for afterwards 
+(including a Momofoku Milk Bar). Just hop on the F Train and get off at the 
+Smith-9th St. station and you're there!
+
+Not sure about reservations on this one, but if I get a good amount of RSVP's, 
+I'll give it a shot. As always, anyone is welcome to join us!
+
+== Additional Notes ==
+
+* Elisha and I [https://www.facebook.com/VICELANDTV/videos/414622492236341 are famous].
+* I'm going to DC with plans to visit a beer garden this weekend, so I'll drink for you all.
+* I wrote this in the MediaWiki syntax. Can't really complain.
+** Well, except the way it joins wrapped paragraphs is INSANE.
+** Standard bulleted list test.
+*** Very simple.
+** Very sane.

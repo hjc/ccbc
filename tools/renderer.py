@@ -45,6 +45,21 @@ def parse_data_to_markup(source, dest, format_='yaml',
     elif format_ == 'plist':
         import plistlib
         data = plistlib.readPlist(source)
+    elif format_ == 'wiki':
+        from mediawiki_parser.html import make_parser as make_parser_html
+        from mediawiki_parser.preprocessor import make_parser
+        preprocessor = make_parser({})
+
+        parser = make_parser_html([], [], [], {}, {})
+
+        with open(source, 'r') as f:
+            preprocessed_text = preprocessor.parse(f.read())
+
+        output = parser.parse(preprocessed_text.leaves())
+
+        dest.write(output.value)
+
+        return
     else:
         raise RuntimeError("No usable format given to data parser!")
 

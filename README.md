@@ -24,7 +24,9 @@ Some sample items:
 - [Big Alice Brewing](http://bigalicebrewing.com/) -- DONE as Meeting 9!
 - [Threes Brewing](http://www.threesbrewing.com/) -- DONE for Meeting 10!
 - [Folksbier Brewery](http://folksbier.com/home.html) -- DONE as Meeting 11!
-- [SingleCut Beersmiths](https://singlecutbeer.com/) -- ON TAP for Meeting 12!
+- [SingleCut Beersmiths](https://singlecutbeer.com/) -- DONE for Meeting 12!
+- [Other Half Brewing](http://www.otherhalfbrewing.com/) -- ON TAP for Meeting
+  13!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
@@ -38,7 +40,6 @@ Some sample items:
   taproom ain't open =(.
 - [Interboro Spirits & Ale](http://interboro.nyc/home).
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
-- [Other Half Brewing](http://www.otherhalfbrewing.com/).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
