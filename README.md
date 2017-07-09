@@ -42,6 +42,8 @@ Some sample items:
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
+- Torst
+- Keg and Lantern
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
 - BREW OUR OWN BEER AS A GROUP!?!?!?!
