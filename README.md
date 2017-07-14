@@ -25,8 +25,11 @@ Some sample items:
 - [Threes Brewing](http://www.threesbrewing.com/) -- DONE for Meeting 10!
 - [Folksbier Brewery](http://folksbier.com/home.html) -- DONE as Meeting 11!
 - [SingleCut Beersmiths](https://singlecutbeer.com/) -- DONE for Meeting 12!
-- [Other Half Brewing](http://www.otherhalfbrewing.com/) -- ON TAP for Meeting
+- [Other Half Brewing](http://www.otherhalfbrewing.com/) -- DONE for Meeting
   13!
+- Astoria's Bohemian Beer Garden - DONE for Meeting 14!
+- [Keg and Lantern](https://www.kegandlanternbrooklyn.com/bar) -- ON TAP for
+  Meeting 15!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
@@ -43,7 +46,6 @@ Some sample items:
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
 - Torst
-- Keg and Lantern
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
 - BREW OUR OWN BEER AS A GROUP!?!?!?!
