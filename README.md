@@ -35,6 +35,7 @@ Some sample items:
 - Brouwerij Lane.
 - Six Point Brewery in Red Hook.
 - An evening at Brooklyn Brewery in Williamsburg.
+- [Circa Brewing](http://circabrewing.co/)
 - [Blue Point Brewery](http://www.bluepointbrewing.com/) in Long Island City.
 - [Cricket Hill Brewery](http://www.crickethillbrewery.com/) in Jersey.
 - [Whole Foods Market - Bowery Beer Room](https://www.beermenus.com/places/8-whole-foods-market-bowery-beer-room).
