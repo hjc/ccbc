@@ -1,10 +1,9 @@
-# The Croscon Beer Club
-
+# Bier Klub
 We all love beer, but some of us love it more than others, this is an event for those people.
 
-## What is the Croscon Beer Club (CBC)?
+## What is the Bier Klub?
 
-The CBC is a joint initiative between Hayden and Chris to get the beer lovingest Crosconians to go out together
+The Bier Klub is a joint initiative between Hayden and Chris to get the beer lovingest programmers to go out together
 and experience the wonderful world of beer that NYC has to offer.
 
 Right now, we all have our own favorites and go to staples, but there are so many other options!
@@ -28,8 +27,10 @@ Some sample items:
 - [Other Half Brewing](http://www.otherhalfbrewing.com/) -- DONE for Meeting
   13!
 - Astoria's Bohemian Beer Garden - DONE for Meeting 14!
-- [Keg and Lantern](https://www.kegandlanternbrooklyn.com/bar) -- ON TAP for
+- [Keg and Lantern](https://www.kegandlanternbrooklyn.com/bar) -- DONE for
   Meeting 15!
+- [Torst](http://www.torstnyc.com/) -- ON TAP for Meeting 16!
+- [ICONYC](http://www.iconycbrewing.com/#taproom-launch)
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
@@ -46,7 +47,6 @@ Some sample items:
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
-- Torst
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
 - BREW OUR OWN BEER AS A GROUP!?!?!?!
