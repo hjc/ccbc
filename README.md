@@ -29,8 +29,8 @@ Some sample items:
 - Astoria's Bohemian Beer Garden - DONE for Meeting 14!
 - [Keg and Lantern](https://www.kegandlanternbrooklyn.com/bar) -- DONE for
   Meeting 15!
-- [Torst](http://www.torstnyc.com/) -- ON TAP for Meeting 16!
-- [ICONYC](http://www.iconycbrewing.com/#taproom-launch)
+- [Torst](http://www.torstnyc.com/) -- DONE for Meeting 16!
+- [ICONYC](http://www.iconycbrewing.com/#taproom-launch) -- ON TAP for Meeting 17!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
