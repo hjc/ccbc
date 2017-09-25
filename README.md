@@ -34,6 +34,7 @@ Some sample items:
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
+- Berg'n in... Bergen!
 - Six Point Brewery in Red Hook.
 - An evening at Brooklyn Brewery in Williamsburg.
 - [Circa Brewing](http://circabrewing.co/)
