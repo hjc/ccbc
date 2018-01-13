@@ -31,20 +31,20 @@ Some sample items:
   Meeting 15!
 - [Torst](http://www.torstnyc.com/) -- DONE for Meeting 16!
 - [ICONYC](http://www.iconycbrewing.com/#taproom-launch) -- DONE for Meeting 17!
-- [Circa Brewing](http://circabrewing.co/) -- ON TAP for Meeting 18!
-- Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/).
+- [Circa Brewing](http://circabrewing.co/) -- DONE for Meeting 18!
+- Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/). -- DONE for Meeting 19!
+- [Interboro Spirits & Ale](http://interboro.nyc/home). -- ON TAP for Meeting 21!
 - Croxley Ale House in Williamsburg.
 - Brouwerij Lane.
 - Berg'n in... Bergen!
 - Six Point Brewery in Red Hook.
 - An evening at Brooklyn Brewery in Williamsburg.
-- [Blue Point Brewery](http://www.bluepointbrewing.com/) in Long Island City.
+- [Blue Point Brewery](http://www.bluepointbrewing.com/) in Long Island.
 - [Cricket Hill Brewery](http://www.crickethillbrewery.com/) in Jersey.
 - [Whole Foods Market - Bowery Beer Room](https://www.beermenus.com/places/8-whole-foods-market-bowery-beer-room).
 - [Finback Brewery](http://www.finbackbrewery.com/home.html) in Queens.
 - [Braven Brewing](http://www.bravenbrewing.com/). Maybe for 2017? Their
   taproom ain't open =(.
-- [Interboro Spirits & Ale](http://interboro.nyc/home).
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
