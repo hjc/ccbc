@@ -40,6 +40,7 @@ Some sample items:
 - Six Point Brewery in Red Hook.
 - An evening at Brooklyn Brewery in Williamsburg.
 - [Blue Point Brewery](http://www.bluepointbrewing.com/) in Long Island.
+- [King's County Distillery](http://kingscountydistillery.com/) in BK.
 - [Cricket Hill Brewery](http://www.crickethillbrewery.com/) in Jersey.
 - [Whole Foods Market - Bowery Beer Room](https://www.beermenus.com/places/8-whole-foods-market-bowery-beer-room).
 - [Finback Brewery](http://www.finbackbrewery.com/home.html) in Queens.
