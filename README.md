@@ -33,8 +33,12 @@ Some sample items:
 - [ICONYC](http://www.iconycbrewing.com/#taproom-launch) -- DONE for Meeting 17!
 - [Circa Brewing](http://circabrewing.co/) -- DONE for Meeting 18!
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/). -- DONE for Meeting 19!
-- [Interboro Spirits & Ale](http://interboro.nyc/home). -- ON TAP for Meeting 21!
+- [Interboro Spirits & Ale](http://interboro.nyc/home). -- DONE for Meeting 21!
+- [Strong Rope Brewery](http://strongropebrewery.com/) -- DONE for Meeting 22!
+- A trip to Transmitter Brewery in LIC. -- ON TAP (again) for Meeting 24!
+- [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
+- [The Kings Beer Hall](http://www.thekbh.com/)
 - Brouwerij Lane.
 - Berg'n in... Bergen!
 - Six Point Brewery in Red Hook.
