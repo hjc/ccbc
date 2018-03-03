@@ -36,6 +36,8 @@ Some sample items:
 - [Interboro Spirits & Ale](http://interboro.nyc/home). -- DONE for Meeting 21!
 - [Strong Rope Brewery](http://strongropebrewery.com/) -- DONE for Meeting 22!
 - A trip to Transmitter Brewery in LIC. -- ON TAP (again) for Meeting 24!
+- [Fifth Hammer](http://www.fifthhammerbrewing.com/)
+- [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
 - [The Kings Beer Hall](http://www.thekbh.com/)
