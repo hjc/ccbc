@@ -35,8 +35,8 @@ Some sample items:
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/). -- DONE for Meeting 19!
 - [Interboro Spirits & Ale](http://interboro.nyc/home). -- DONE for Meeting 21!
 - [Strong Rope Brewery](http://strongropebrewery.com/) -- DONE for Meeting 22!
+- [Fifth Hammer](http://www.fifthhammerbrewing.com/) -- ON TAP for Meeting 23!
 - A trip to Transmitter Brewery in LIC. -- ON TAP (again) for Meeting 24!
-- [Fifth Hammer](http://www.fifthhammerbrewing.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
