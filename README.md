@@ -42,6 +42,7 @@ Some sample items:
 - Croxley Ale House in Williamsburg.
 - [The Kings Beer Hall](http://www.thekbh.com/)
 - Brouwerij Lane.
+- [Five Boroughs Brewing](https://www.fiveboroughs.com/)
 - Berg'n in... Bergen!
 - Six Point Brewery in Red Hook.
 - An evening at Brooklyn Brewery in Williamsburg.
