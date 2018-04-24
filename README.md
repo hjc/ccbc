@@ -35,8 +35,9 @@ Some sample items:
 - Some delicious meats and beers at [Cannibal NYC](http://www.cannibalnyc.com/). -- DONE for Meeting 19!
 - [Interboro Spirits & Ale](http://interboro.nyc/home). -- DONE for Meeting 21!
 - [Strong Rope Brewery](http://strongropebrewery.com/) -- DONE for Meeting 22!
-- [Fifth Hammer](http://www.fifthhammerbrewing.com/) -- ON TAP for Meeting 23!
-- A trip to Transmitter Brewery in LIC. -- ON TAP (again) for Meeting 24!
+- [Fifth Hammer](http://www.fifthhammerbrewing.com/) -- DONE for Meeting 23!
+- A trip to Transmitter Brewery in LIC. -- DONE for Meeting 24!
+- [King's County Distillery](http://kingscountydistillery.com/) in BK -- ON TAP for Meeting 25!
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
@@ -47,7 +48,6 @@ Some sample items:
 - Six Point Brewery in Red Hook.
 - An evening at Brooklyn Brewery in Williamsburg.
 - [Blue Point Brewery](http://www.bluepointbrewing.com/) in Long Island.
-- [King's County Distillery](http://kingscountydistillery.com/) in BK.
 - [Cricket Hill Brewery](http://www.crickethillbrewery.com/) in Jersey.
 - [Whole Foods Market - Bowery Beer Room](https://www.beermenus.com/places/8-whole-foods-market-bowery-beer-room).
 - [Finback Brewery](http://www.finbackbrewery.com/home.html) in Queens.
