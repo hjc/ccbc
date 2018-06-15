@@ -41,6 +41,7 @@ Some sample items:
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
+- [The Shanty](http://www.nydistilling.com/the-shanty/) in Williamsburg (NY Distilling)
 - [The Kings Beer Hall](http://www.thekbh.com/)
 - Brouwerij Lane.
 - [Five Boroughs Brewing](https://www.fiveboroughs.com/)
