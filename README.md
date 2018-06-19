@@ -47,6 +47,7 @@ Some sample items:
 - [Five Boroughs Brewing](https://www.fiveboroughs.com/)
 - Berg'n in... Bergen!
 - Six Point Brewery in Red Hook.
+- [Brooklyn Kura](https://www.brooklynkura.com/) - Fucking Sake...
 - An evening at Brooklyn Brewery in Williamsburg.
 - [Blue Point Brewery](http://www.bluepointbrewing.com/) in Long Island.
 - [Cricket Hill Brewery](http://www.crickethillbrewery.com/) in Jersey.
