@@ -56,6 +56,7 @@ Some sample items:
 - [Braven Brewing](http://www.bravenbrewing.com/). Maybe for 2017? Their
   taproom ain't open =(.
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
+- [Mikkeller Brewing NYC](https://www.mikkellernyc.com/) (at Citi Field).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
