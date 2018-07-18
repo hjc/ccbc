@@ -37,14 +37,14 @@ Some sample items:
 - [Strong Rope Brewery](http://strongropebrewery.com/) -- DONE for Meeting 22!
 - [Fifth Hammer](http://www.fifthhammerbrewing.com/) -- DONE for Meeting 23!
 - A trip to Transmitter Brewery in LIC. -- DONE for Meeting 24!
-- [King's County Distillery](http://kingscountydistillery.com/) in BK -- ON TAP for Meeting 25!
+- [King's County Distillery](http://kingscountydistillery.com/) in BK -- DONE for Meeting 25!
+- [Five Boroughs Brewing](https://www.fiveboroughs.com/) -- DONE for Meeting 26!
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
 - [The Shanty](http://www.nydistilling.com/the-shanty/) in Williamsburg (NY Distilling)
 - [The Kings Beer Hall](http://www.thekbh.com/)
 - Brouwerij Lane.
-- [Five Boroughs Brewing](https://www.fiveboroughs.com/)
 - Berg'n in... Bergen!
 - Six Point Brewery in Red Hook.
 - [Brooklyn Kura](https://www.brooklynkura.com/) - Fucking Sake...
@@ -59,6 +59,22 @@ Some sample items:
 - [Mikkeller Brewing NYC](https://www.mikkellernyc.com/) (at Citi Field).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
+- [Mikkeller NYC](https://www.mikkellernyc.com/) at Citi Field.
+- [Chelsea Craft](http://chelseacraftbrewing.com/) in the Bronx.
+- [Birreria](http://chelseacraftbrewing.com/) by Eataly.
+- [War Flag](http://www.warflag.nyc/) in Greenpoint... if they get a tasting room.
+- [Queens Brewery](https://www.queensbrewery.com/).
+- [Death Ave](https://www.deathave.com/).
+- [Bondurant](http://bondurantsnyc.com/).
+- [The Pony Bar](http://theponybar.com/).
+- [As Is](http://www.asisnyc.com/).
+- [The Jeffrey](http://www.thejeffreynyc.com/).
+- [The Blind Tiger](http://www.blindtigeralehouse.com/).
+- The Proletariat.
+- [The Well](https://www.thewellbrooklyn.com/).
+- [Hops Hill](http://www.hops-hill.com/index.html).
+- [Covenhoven](http://www.covenhovennyc.com/).
+- [The Owl Farm](http://www.theowlfarm.com/).
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
 - BREW OUR OWN BEER AS A GROUP!?!?!?!
