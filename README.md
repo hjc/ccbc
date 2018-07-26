@@ -40,6 +40,7 @@ Some sample items:
 - [King's County Distillery](http://kingscountydistillery.com/) in BK -- DONE for Meeting 25!
 - [Five Boroughs Brewing](https://www.fiveboroughs.com/) -- DONE for Meeting 26!
 - [The Kings Beer Hall](http://www.thekbh.com/) -- ON TAP for Meeting 27!
+- [Lineup Brewing](https://www.facebook.com/lineupbrewing/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Coney Island Brewery](http://coneyislandbeer.com/)
 - Croxley Ale House in Williamsburg.
