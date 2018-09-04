@@ -77,6 +77,7 @@ Some sample items:
 - [Hops Hill](http://www.hops-hill.com/index.html).
 - [Covenhoven](http://www.covenhovennyc.com/).
 - [The Owl Farm](http://www.theowlfarm.com/).
+- [Greenpoint Beerworks](https://www.facebook.com/pages/Green-Point-Beerworks/116072698413293?ref=nearby_places)
 - A trip to Weyerbacher!?!!?!?!?! (I'm getting ahead of myself here).
 - Any sort of craft beer clubs/weeks that pop up in the city.
 - BREW OUR OWN BEER AS A GROUP!?!?!?!
