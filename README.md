@@ -41,7 +41,8 @@ Some sample items:
 - [Five Boroughs Brewing](https://www.fiveboroughs.com/) -- DONE for Meeting 26!
 - [The Kings Beer Hall](http://www.thekbh.com/) -- DONE for Meeting 27!
 - [Coney Island Brewery](http://coneyislandbeer.com/) -- DONE for Meeting 28!
-- [Lineup Brewing](https://www.facebook.com/lineupbrewing/) -- ON TAP for Meeting 29!
+- [Lineup Brewing](https://www.facebook.com/lineupbrewing/) -- DONE for Meeting 29 (kinda?)!
+- [Black Forest Brooklyn](https://www.blackforestbrooklyn.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - [Radegast Beer Hall](http://radegasthall.com/)
 - Croxley Ale House in Williamsburg.
