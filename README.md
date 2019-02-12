@@ -42,9 +42,13 @@ Some sample items:
 - [The Kings Beer Hall](http://www.thekbh.com/) -- DONE for Meeting 27!
 - [Coney Island Brewery](http://coneyislandbeer.com/) -- DONE for Meeting 28!
 - [Lineup Brewing](https://www.facebook.com/lineupbrewing/) -- DONE for Meeting 29 (kinda?)!
+- [Radegast Beer Hall](http://radegasthall.com/) -- DONE for Meeting 30!
+- [Grimm Artisnal Ales](https://grimmales.com/) -- DONE for Meeting 31!
+- Cannibal (AGAIN!) -- DONE for Meeting 32!
+- Random pubs in London -- DONE for Meeting 33!
+- [Queens Brewery](https://www.queensbrewery.com/).
 - [Black Forest Brooklyn](https://www.blackforestbrooklyn.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
-- [Radegast Beer Hall](http://radegasthall.com/)
 - Croxley Ale House in Williamsburg.
 - [The Shanty](http://www.nydistilling.com/the-shanty/) in Williamsburg (NY Distilling)
 - Brouwerij Lane.
@@ -66,7 +70,6 @@ Some sample items:
 - [Chelsea Craft](http://chelseacraftbrewing.com/) in the Bronx.
 - [Birreria](http://chelseacraftbrewing.com/) by Eataly.
 - [War Flag](http://www.warflag.nyc/) in Greenpoint... if they get a tasting room.
-- [Queens Brewery](https://www.queensbrewery.com/).
 - [Death Ave](https://www.deathave.com/).
 - [Bondurant](http://bondurantsnyc.com/).
 - [The Pony Bar](http://theponybar.com/).
