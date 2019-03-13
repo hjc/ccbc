@@ -46,7 +46,9 @@ Some sample items:
 - [Grimm Artisnal Ales](https://grimmales.com/) -- DONE for Meeting 31!
 - Cannibal (AGAIN!) -- DONE for Meeting 32!
 - Random pubs in London -- DONE for Meeting 33!
-- [Queens Brewery](https://www.queensbrewery.com/).
+- [Queens Brewery](https://www.queensbrewery.com/) -- DONE for Meeting 34!
+- [Mikkeller Brewing NYC](https://www.mikkellernyc.com/) (at Citi Field) -- ON
+  TAP for Meeting 35!
 - [Black Forest Brooklyn](https://www.blackforestbrooklyn.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - Croxley Ale House in Williamsburg.
@@ -63,7 +65,6 @@ Some sample items:
 - [Braven Brewing](http://www.bravenbrewing.com/). Maybe for 2017? Their
   taproom ain't open =(.
 - [Gunhill Brewery](http://gunhillbrewing.com/#declare).
-- [Mikkeller Brewing NYC](https://www.mikkellernyc.com/) (at Citi Field).
 - [Forest Hills Station House](http://foresthillsstationhouse.com/).
 - Milk and Hops (779 Broadway)
 - [Mikkeller NYC](https://www.mikkellernyc.com/) at Citi Field.
