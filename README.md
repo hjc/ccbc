@@ -47,8 +47,12 @@ Some sample items:
 - Cannibal (AGAIN!) -- DONE for Meeting 32!
 - Random pubs in London -- DONE for Meeting 33!
 - [Queens Brewery](https://www.queensbrewery.com/) -- DONE for Meeting 34!
-- [Mikkeller Brewing NYC](https://www.mikkellernyc.com/) (at Citi Field) -- ON
-  TAP for Meeting 35!
+- [Mikkeller Brewing NYC](https://www.mikkellernyc.com/) (at Citi Field) -- DONE for Meeting 35!
+- Bohemian Beer Garden -- DONE for Meeting 36, again!
+- Transmitter Brewing -- DONE for Meeting 37, again!
+- Green City 2019 -- DONE for Meeting 38!
+- [Svendale Brewing](https://www.svendale.com/) -- DONE for Meeting 39!
+- LIC Beer Project -- ON TAP for Meeting 40!
 - [Black Forest Brooklyn](https://www.blackforestbrooklyn.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - Croxley Ale House in Williamsburg.
