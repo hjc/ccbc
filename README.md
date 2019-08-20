@@ -56,6 +56,13 @@ Some sample items:
 - [Black Forest Brooklyn](https://www.blackforestbrooklyn.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
 - Croxley Ale House in Williamsburg.
+- Alewife - The Brewpub
+- The Aviary NYC
+- Craft and Carry
+- Please Don't Tel
+- Burp Castle
+- Arts and Crafts
+- The Up and Up
 - [The Shanty](http://www.nydistilling.com/the-shanty/) in Williamsburg (NY Distilling)
 - Brouwerij Lane.
 - Berg'n in... Bergen!
