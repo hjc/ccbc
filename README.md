@@ -55,6 +55,7 @@ Some sample items:
 - LIC Beer Project -- ON TAP for Meeting 40!
 - [Black Forest Brooklyn](https://www.blackforestbrooklyn.com/)
 - [Kills Boro](http://killsboro.com/) (Holy shit! They drink in Staten Island????)
+- Evil Twin's new RIDGEWOOD SPOT!?!?!
 - Croxley Ale House in Williamsburg.
 - Alewife - The Brewpub
 - The Aviary NYC
